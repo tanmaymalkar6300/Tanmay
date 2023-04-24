@@ -1,0 +1,12 @@
+1.	What is the computer?
+     A computer is an electronic devices that store and processes data, often in binary form, in accordance with a command from a variable program.
+2.	What is a RAM?
+  (RAM) Random Access Memory, is a computer’s short-term memory, where the data that the processor is currently using is stored. RAM capacity is critical for system performance.
+3.	Where the data is stored in the computer? 
+Data is stored in the computer in the storage media such as  Hard disk drive or Solid disk drive.  
+
+
+
+
+
+
